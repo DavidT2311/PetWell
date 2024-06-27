@@ -1,0 +1,25 @@
+body {
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+}
+
+.seccion {
+    background-image: url(../Images/Background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: rgb(49, 49, 49);
+}
+
+.button-class {
+    font-size: 0px;
+}
+
+.imgs {
+    height: 200px;
+}
+
+.alt {
+    visibility: hidden;
+}
